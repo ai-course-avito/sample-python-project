@@ -9,7 +9,7 @@ Minimal Django blog:
 
 See `docs/README.md` for project documentation (setup, architecture, roadmap).
 
-## Run locally
+## Run locally 
 
 Create and activate a virtualenv (recommended), install dependencies, run migrations, create an admin user, then start the server.
 
